@@ -37,7 +37,7 @@
 - [The what and why of GRAPH SLAM!](https://garimanishad.medium.com/everything-you-need-to-know-about-graph-slam-7f6f567f1a31)
 - [SLAM Tutorial@ICRA 2016](http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/)
 
-## SLAM
+## SLAM Methods
 
 ### Monocular
 - [ORB_SLAM](https://github.com/raulmur/ORB_SLAM) - A Versatile and Accurate Monocular SLAM
@@ -70,6 +70,20 @@
 - [LOAM-Livox](https://github.com/hku-mars/loam_livox)
 - [GMapping](https://openslam-org.github.io/gmapping.html) SLAM based on Rao-Blackwellized particle filter
 
+## Planning
+
+- [Intro to A*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
+## Control
+
+- [FastPID](https://github.com/mike-matera/FastPID)
+
+## Papers
+
+### Survey
+
+- [Robotic Mapping: A Survey](http://robots.stanford.edu/papers/thrun.mapping-tr.pdf) 
+
 ## Software
 
 ### Frameworks
@@ -79,6 +93,11 @@
 - [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto) - Autonomous Vehicle platform
 - [OpenPilot](https://github.com/commaai/openpilot)
 - [Apollo](https://github.com/ApolloAuto/apollo) - Autonomous Vehicle platform
+
+### ROS Packages
+
+- [robot_localization](http://wiki.ros.org/robot_localization)
+- [imu_filter_madgwick](http://wiki.ros.org/imu_filter_madgwick)
 
 ### Simulators
 
@@ -114,12 +133,19 @@
 - [FLANN](https://github.com/flann-lib/flann)
 - [nanoflann](https://github.com/jlblancoc/nanoflann)
 
+## Robots
+
+- [PR2](http://wiki.ros.org/Robots/PR2)
+
+## Projects
+
+- [Rovina EU](http://www.rovina-project.eu/)
+
 ## Datasets
 
 - [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets)
 - [TUM University - RGBD data](http://vision.in.tum.de/data/datasets/rgbd-dataset)
 - [KITTI Vision](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
-
 
 ## Other lists
 - [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
