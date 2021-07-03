@@ -19,6 +19,9 @@
 ## News
 
 - [IEEE Spectrum Robotics](https://spectrum.ieee.org/robotics)
+- [The Robot Report](https://www.therobotreport.com/)
+- [MIT Robotics](https://news.mit.edu/topic/robotics)
+- [Robotics And Automation News](https://roboticsandautomationnews.com/)
 
 ## Books
 
@@ -131,3 +134,4 @@
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [robotics-coursework](https://github.com/mithi/robotics-coursework)
 - [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
