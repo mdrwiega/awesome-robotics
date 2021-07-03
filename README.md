@@ -32,7 +32,6 @@
 
 ## Courses and Lectures
  
-- [SlamBook](https://github.com/leftthomas/SlamBook)
 - [GraphSLAM tutorials code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
 - [The what and why of GRAPH SLAM!](https://garimanishad.medium.com/everything-you-need-to-know-about-graph-slam-7f6f567f1a31)
 - [SLAM Tutorial@ICRA 2016](http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/)
@@ -82,7 +81,8 @@
 
 ### Survey
 
-- [Robotic Mapping: A Survey](http://robots.stanford.edu/papers/thrun.mapping-tr.pdf) 
+- [Robotic Mapping: A Survey](http://robots.stanford.edu/papers/thrun.mapping-tr.pdf) (2002)
+- [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
 
 ## Software
 
