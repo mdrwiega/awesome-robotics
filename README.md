@@ -93,6 +93,10 @@ A list of important content related to Mobile Robotics.
 
 ## Software
 
+### Tools
+
+- [3D Rotation Converter](http://www.andre-gaschler.com/rotationconverter/)
+
 ### Frameworks
 
 - [ROS](https://www.ros.org/) | Robot Operating System
@@ -102,7 +106,9 @@ A list of important content related to Mobile Robotics.
 - [OpenPilot](https://github.com/commaai/openpilot) | An open source driver assistance system
 - [Apollo](https://github.com/ApolloAuto/apollo) | Autonomous Driving Solution
 
-### ROS Packages
+### ROS
+
+#### Packages
 
 - [robot_localization](http://wiki.ros.org/robot_localization)
 - [imu_filter_madgwick](http://wiki.ros.org/imu_filter_madgwick)
@@ -165,25 +171,24 @@ A list of important content related to Mobile Robotics.
 
 ### Journals
 
-- [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514)
-- [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
-- [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr)
-- [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967)
-- [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846)
-- [Robotics & Automation Magazine (RAM)](https://www.ieee-ras.org/publications/ram)
-- [Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
-- [Robotica](https://www.cambridge.org/core/journals/robotica)
-- [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)
-- [Robotics and Computer-Integrated Manufacturing](https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing)
-- [IEEE Transactions on Robotics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
-- [IEEE Robotics & Automation Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+- [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514) | *Springer*
+- [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846) | *Springer*
+- [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369) | *Springer*
+- [Robotics & Automation Magazine (RAM)](https://www.ieee-ras.org/publications/ram) | *IEEE*
+- [Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | *IEEE*
+- [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | *IEEE*
+- [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516) | *IEEE*
+- [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr) | *Sage*
+- [International Journal of Advanced Robotics Systems (IJARS)](https://journals.sagepub.com/home/arx) | *Sage*
+- [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967) | *Wiley*
+- [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | *Elsevier*
+- [Robotics and Computer-Integrated Manufacturing](https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing) | *Elsevier*
+- [Mechatronics](http://www.journals.elsevier.com/mechatronics) | *Elsevier*
+- [Robotics and Computer-Integrated Manufacturing](http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing) | *Elsevier*
+- [Robotica](https://www.cambridge.org/core/journals/robotica) | *Cambridge*
 - [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
-- [Mechatronics](http://www.journals.elsevier.com/mechatronics)
-- [Robotics and Computer-Integrated Manufacturing](http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing)
-- [Bioinspiration & Biomimetics](http://iopscience.iop.org/journal/1748-3190)
-- [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)
-- [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
 - [Journal of Automation, Mobile Robotics and Intelligent Systems](https://www.jamris.org)
+- [Sensors](https://www.mdpi.com/journal/sensors) | *MDPI*
 
 ### Conferences
 
@@ -204,17 +209,25 @@ A list of important content related to Mobile Robotics.
 - [Fetch Robotics](http://www.fetchrobotics.com/)
 - [AutonomousStuff](https://autonomoustuff.com/)
 - [Aptiv](https://www.aptiv.com/)
-- [ABB Robotics](http://new.abb.com/products/robotics) the manufacturer of industrial robots
-- [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots
-- [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer
+- [ABB Robotics](http://new.abb.com/products/robotics) | The manufacturer of industrial robots
+- [KUKA Robotics](http://www.kuka-robotics.com/en/) | The manufacturer of industrial robots
+- [FANUC](http://www.fanucamerica.com/) | Industrial robots manufacturer
 - [Soft Robotics](https://www.softroboticsinc.com/)
-- [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building robot simulations
+- [The construct sim](http://www.theconstructsim.com/) | A cloud based tool for building robot simulations
 - [PAL Robotics](http://pal-robotics.com)
-- [iRobot](http://www.irobot.com/) manufacturer of the Roomba
-- [Aldebaran Robotics](https://www.aldebaran.com/en) manufacturer of the Nao robot
-- [Rethink Robotics](http://www.rethinkrobotics.com/) creator of Baxter robot
+- [iRobot](http://www.irobot.com/) | Manufacturer of the Roomba
+- [Aldebaran Robotics](https://www.aldebaran.com/en) | Manufacturer of the Nao robot
+- [Rethink Robotics](http://www.rethinkrobotics.com/) | Creator of Baxter robot
 - [DJI](http://www.dji.com/)
 - [Halodi Robotics](https://www.halodi.com/)
+- [Nuro](https://www.nuro.ai/) - autonomous driving
+- [Diligent Robotics](https://www.diligentrobots.com/)
+- [Magazino](https://www.magazino.eu/?lang=en)
+- [Accrea](http://engineering.accrea.com/)
+- [Universal Robots](https://www.universal-robots.com/)
+- [X](https://x.company/)
+- [Small Robot Company](https://www.smallrobotcompany.com/)
+- [Optimus Ride](https://www.optimusride.com/) | self-driving vehicles
 
 ## Miscellaneous
 
@@ -222,6 +235,7 @@ A list of important content related to Mobile Robotics.
 
 - [Turtlebot](https://www.turtlebot.com/)
 - [PR2](http://wiki.ros.org/Robots/PR2)
+- [Atlas](https://www.bostondynamics.com/atlas)
 
 ### Projects
 
@@ -243,7 +257,7 @@ A list of important content related to Mobile Robotics.
 - [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [robotics-coursework](https://github.com/mithi/robotics-coursework)
-- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)
+- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 - [awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics)
 - [awesome-lidar](https://github.com/szenergy/awesome-lidar)
