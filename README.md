@@ -25,6 +25,7 @@ A list of important content related to Mobile Robotics.
 - [MIT Robotics](https://news.mit.edu/topic/robotics)
 - [Robotics And Automation News](https://roboticsandautomationnews.com/)
 - [Robotics Business Review](https://www.roboticsbusinessreview.com/)
+- [Reddit/robotics](https://www.reddit.com/r/robotics/)
 
 ## Books
 
@@ -43,6 +44,11 @@ A list of important content related to Mobile Robotics.
 - [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info)
 - [Introduction to Mobile Robotics - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
 - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+- [Multidimensional Kalman-Filter](https://github.com/balzer82/Kalman)
+- [How a Kalman filter works in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+- [Self-Driving Cars with ROS and Autoware](https://www.apex.ai/autoware-course)
+- [edX Autonomous Mobile Robots](https://www.edx.org/course/autonomous-mobile-robots)
+- [edX Self-Driving Cars with Duckietown](https://www.edx.org/course/self-driving-cars-with-duckietown)
 
 ## SLAM
 
@@ -81,6 +87,7 @@ A list of important content related to Mobile Robotics.
 ## Planning
 
 - [Intro to A*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- [Path finding](https://qiao.github.io/PathFinding.js/visual/) | Path finding algorithms visualization
 
 ## Control
 
@@ -116,12 +123,13 @@ A list of important content related to Mobile Robotics.
 ### Simulators
 
 - [Gazebo](http://gazebosim.org/)
-- [CoppeliaSim](https://www.coppeliarobotics.com/)
+- [CoppeliaSim](https://www.coppeliarobotics.com/) | V-REP
 - [SVL](https://www.svlsimulator.com/)
 - [Unity](https://unity.com/solutions/automotive-transportation-manufacturing/robotics)
 - [CARLA](http://carla.org/)
 - [Webots](https://cyberbotics.com/)
 - [AirSim](https://github.com/microsoft/AirSim)
+- [Player/Stage](http://playerstage.sourceforge.net/)
 
 ### Libraries
 
@@ -133,8 +141,13 @@ A list of important content related to Mobile Robotics.
 - [RansacLib](https://github.com/tsattler/RansacLib) | RANSAC Implementation
 - [ICP](https://github.com/ClayFlannigan/icp) | Iterative Closest Point
 - [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) | Iterative Closest Point implementation
-- [OMPL](https://github.com/ompl/ompl)- The Open Motion Planning Library
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Various robotics algorithms
+- [Arduino PID Library](https://github.com/br3ttb/Arduino-PID-Library)
+
+#### Motion planning
+
+- [OMPL](https://github.com/ompl/ompl) | The Open Motion Planning Library
+- [MoveIt](https://moveit.ros.org/) | Motion planning framework
 
 #### Optimization
 
@@ -146,6 +159,7 @@ A list of important content related to Mobile Robotics.
 
 - [FLANN](https://github.com/flann-lib/flann) | Fast Library for Approximate Nearest Neighbors
 - [nanoflann](https://github.com/jlblancoc/nanoflann) | C++ library for building KD-Trees
+
 ## Sensors
 
 ### Lidars
