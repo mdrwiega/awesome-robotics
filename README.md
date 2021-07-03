@@ -1,18 +1,20 @@
 # Awesome Robotics
 
+A list of important content related to Mobile Robotics.
+
 ## Contents
 
-* **[News](#news)**  
+* **[News](#news)**
 
-* **[Books](#books)**  
+* **[Books](#books)**
 
 * **[Courses and Lectures](#courses-and-lectures)**
 
 * **[SLAM](#slam)**
 
-* **[Software](#software)**  
+* **[Software](#software)**
 
-* **[Datasets](#datasets)**  
+* **[Datasets](#datasets)**
 
 * **[Miscellaneous](#miscellaneous)**
 
@@ -28,10 +30,11 @@
 - [Probabilistic Robotics](https://dl.acm.org/doi/10.5555/1121596)
 - [Introduction to Autonomous Mobile Robots](https://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)
 - [Introduction to Autonomous Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
-* [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)
+- [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)
+- [Where am I? Sensors and Methods for Mobile Robot Positioning](http://citeseerx.ist.psu.edu/viewdoc/citations;jsessionid=845D198BC9C1C6D04D04ED6D9B8280AB?doi=10.1.1.228.903)
 
 ## Courses and Lectures
- 
+
 - [GraphSLAM tutorials code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
 - [The what and why of GRAPH SLAM!](https://garimanishad.medium.com/everything-you-need-to-know-about-graph-slam-7f6f567f1a31)
 - [SLAM Tutorial@ICRA 2016](http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/)
@@ -133,13 +136,25 @@
 - [FLANN](https://github.com/flann-lib/flann)
 - [nanoflann](https://github.com/jlblancoc/nanoflann)
 
+## Hardware
+
+### Sensors
+
+#### Lidars
+
+- [Velodyne](https://velodynelidar.com/)
+- [Livox](https://www.livoxtech.com/)
+- [SICK](https://www.sick.com/ag/en/)
+- [Hokuyo](https://www.hokuyo-aut.jp/)
+
 ## Robots
 
 - [PR2](http://wiki.ros.org/Robots/PR2)
 
 ## Projects
 
-- [Rovina EU](http://www.rovina-project.eu/)
+- [Rovina](http://www.rovina-project.eu/) (EU)
+- [Mars 2020](https://mars.nasa.gov/mars2020/) (NASA)
 
 ## Datasets
 
@@ -161,3 +176,6 @@
 - [robotics-coursework](https://github.com/mithi/robotics-coursework)
 - [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+- [awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics)
+- [awesome-lidar](https://github.com/szenergy/awesome-lidar)
+- [awesome-self-driving](https://github.com/Sid1057/awesome-self-driving)
