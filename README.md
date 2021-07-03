@@ -15,6 +15,7 @@ A list of important content related to Mobile Robotics.
 - **[Sensors](#sensors)**
 - **[Datasets](#datasets)**
 - **[Journals and conferences](#journals-and-conferences)**
+- **[Companies](#companies)**
 - **[Miscellaneous](#miscellaneous)**
 
 ## News
@@ -23,10 +24,11 @@ A list of important content related to Mobile Robotics.
 - [The Robot Report](https://www.therobotreport.com/)
 - [MIT Robotics](https://news.mit.edu/topic/robotics)
 - [Robotics And Automation News](https://roboticsandautomationnews.com/)
+- [Robotics Business Review](https://www.roboticsbusinessreview.com/)
 
 ## Books
 
-- [Probabilistic Robotics](https://dl.acm.org/doi/10.5555/1121596)
+- [Probabilistic Robotics](https://dl.acm.org/doi/10.5555/1121596) | 2005
 - [Introduction to Autonomous Mobile Robots](https://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)
 - [Introduction to Autonomous Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 - [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)
@@ -38,6 +40,9 @@ A list of important content related to Mobile Robotics.
 - [GraphSLAM tutorials code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
 - [The what and why of GRAPH SLAM!](https://garimanishad.medium.com/everything-you-need-to-know-about-graph-slam-7f6f567f1a31)
 - [SLAM Tutorial@ICRA 2016](http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/)
+- [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info)
+- [Introduction to Mobile Robotics - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
+- [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ## SLAM
 
@@ -71,6 +76,7 @@ A list of important content related to Mobile Robotics.
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion)
 - [LOAM-Livox](https://github.com/hku-mars/loam_livox)
 - [GMapping](https://openslam-org.github.io/gmapping.html) | SLAM based on Rao-Blackwellized particle filter
+- [OpenSLAM](http://openslam.org/)
 
 ## Planning
 
@@ -117,24 +123,23 @@ A list of important content related to Mobile Robotics.
 - [PCL](https://pointclouds.org/) | Point Cloud Library
 - [Eigen](http://eigen.tuxfamily.org) | C++ template library for linear algebra: matrices, vectors and numerical solvers
 - [MRPT](https://www.mrpt.org/) | Mobile Robot Programming Toolkit
-
 - [OctoMap](https://github.com/OctoMap/octomap) | Efficient Probabilistic 3D Mapping Framework Based on Octrees
-- [RansacLib](https://github.com/tsattler/RansacLib)
+- [RansacLib](https://github.com/tsattler/RansacLib) | RANSAC Implementation
 - [ICP](https://github.com/ClayFlannigan/icp) | Iterative Closest Point
 - [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) | Iterative Closest Point implementation
 - [OMPL](https://github.com/ompl/ompl)- The Open Motion Planning Library
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Various robotics algorithms
 
 #### Optimization
 
 - [Ceres Solver](https://github.com/ceres-solver/ceres-solver) | Nonlinear optimization library
-- [g2o](https://github.com/RainerKuemmerle/g2o)
-- [CasADi](https://github.com/casadi/casadi)
+- [g2o](https://github.com/RainerKuemmerle/g2o) | C++ framework for optimizing graph-based nonlinear error functions
+- [CasADi](https://github.com/casadi/casadi) | A tool for nonlinear optimization and algorithmic differentiation
 
 #### Nearest Neighbor Search
 
-- [FLANN](https://github.com/flann-lib/flann)
-- [nanoflann](https://github.com/jlblancoc/nanoflann)
-
+- [FLANN](https://github.com/flann-lib/flann) | Fast Library for Approximate Nearest Neighbors
+- [nanoflann](https://github.com/jlblancoc/nanoflann) | C++ library for building KD-Trees
 ## Sensors
 
 ### Lidars
@@ -143,6 +148,10 @@ A list of important content related to Mobile Robotics.
 - [Livox](https://www.livoxtech.com/)
 - [SICK](https://www.sick.com/ag/en/)
 - [Hokuyo](https://www.hokuyo-aut.jp/)
+
+### RGB-D sensors
+
+- [Kinect](https://electronics.howstuffworks.com/microsoft-kinect2.htm)
 
 ## Datasets
 
@@ -186,11 +195,32 @@ A list of important content related to Mobile Robotics.
 - [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
 - [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
 - [International Conference on Methods and Models in Automation and Robotics (MMAR)](http://mmar.edu.pl/)
+- [ROSCon](https://roscon.ros.org/)
+
+## Companies
+
+- [Boston Dynamics](http://www.bostondynamics.com/)
+- [Waymo](https://waymo.com) | Autonomous Driving car company from Google
+- [Fetch Robotics](http://www.fetchrobotics.com/)
+- [AutonomousStuff](https://autonomoustuff.com/)
+- [Aptiv](https://www.aptiv.com/)
+- [ABB Robotics](http://new.abb.com/products/robotics) the manufacturer of industrial robots
+- [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots
+- [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer
+- [Soft Robotics](https://www.softroboticsinc.com/)
+- [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building robot simulations
+- [PAL Robotics](http://pal-robotics.com)
+- [iRobot](http://www.irobot.com/) manufacturer of the Roomba
+- [Aldebaran Robotics](https://www.aldebaran.com/en) manufacturer of the Nao robot
+- [Rethink Robotics](http://www.rethinkrobotics.com/) creator of Baxter robot
+- [DJI](http://www.dji.com/)
+- [Halodi Robotics](https://www.halodi.com/)
 
 ## Miscellaneous
 
 ### Robots
 
+- [Turtlebot](https://www.turtlebot.com/)
 - [PR2](http://wiki.ros.org/Robots/PR2)
 
 ### Projects
