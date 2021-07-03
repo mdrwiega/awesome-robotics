@@ -2,7 +2,7 @@
 
 ## Contents
 
-* **[News](#books)**  
+* **[News](#news)**  
 
 * **[Books](#books)**  
 
