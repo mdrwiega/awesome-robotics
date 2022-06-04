@@ -122,14 +122,17 @@ A list of important content related to Mobile Robotics.
 
 ### Simulators
 
+- [Ignition Gazebo](https://github.com/gazebosim/gz-sim) - successor of Gazebo
 - [Gazebo](http://gazebosim.org/)
-- [CoppeliaSim](https://www.coppeliarobotics.com/) | V-REP
+- [CoppeliaSim](https://www.coppeliarobotics.com/) | successor of V-REP
 - [SVL](https://www.svlsimulator.com/)
 - [Unity](https://unity.com/solutions/automotive-transportation-manufacturing/robotics)
 - [CARLA](http://carla.org/)
 - [Webots](https://cyberbotics.com/)
 - [AirSim](https://github.com/microsoft/AirSim)
 - [Player/Stage](http://playerstage.sourceforge.net/)
+- [O3DE (Open 3D Engine)](https://www.o3de.org/)
+- [NVIDIA Isaac](https://developer.nvidia.com/isaac-sdk)
 
 ### Libraries
 
@@ -138,6 +141,7 @@ A list of important content related to Mobile Robotics.
 - [Eigen](http://eigen.tuxfamily.org) | C++ template library for linear algebra: matrices, vectors and numerical solvers
 - [MRPT](https://www.mrpt.org/) | Mobile Robot Programming Toolkit
 - [OctoMap](https://github.com/OctoMap/octomap) | Efficient Probabilistic 3D Mapping Framework Based on Octrees
+- [Open3D](http://www.open3d.org/docs/release/) | Library for 3D data processing
 - [RansacLib](https://github.com/tsattler/RansacLib) | RANSAC Implementation
 - [ICP](https://github.com/ClayFlannigan/icp) | Iterative Closest Point
 - [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) | Iterative Closest Point implementation
@@ -168,10 +172,14 @@ A list of important content related to Mobile Robotics.
 - [Livox](https://www.livoxtech.com/)
 - [SICK](https://www.sick.com/ag/en/)
 - [Hokuyo](https://www.hokuyo-aut.jp/)
+- [Ouster](https://ouster.com/)
+- [Hesai](https://www.hesaitech.com/)
 
 ### RGB-D sensors
 
-- [Kinect](https://electronics.howstuffworks.com/microsoft-kinect2.htm)
+- [Microsoft Kinect](https://electronics.howstuffworks.com/microsoft-kinect2.htm)
+- [Occipital Structure](https://structure.io/)
+- [Intel RealSense](https://www.intelrealsense.com/)
 
 ## Datasets
 
@@ -250,6 +258,7 @@ A list of important content related to Mobile Robotics.
 - [Turtlebot](https://www.turtlebot.com/)
 - [PR2](http://wiki.ros.org/Robots/PR2)
 - [Atlas](https://www.bostondynamics.com/atlas)
+- [Husarion](https://husarion.com/)
 
 ### Projects
 
