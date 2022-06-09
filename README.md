@@ -113,13 +113,6 @@ A list of important content related to Mobile Robotics.
 - [OpenPilot](https://github.com/commaai/openpilot) | An open source driver assistance system
 - [Apollo](https://github.com/ApolloAuto/apollo) | Autonomous Driving Solution
 
-### ROS
-
-#### Packages
-
-- [robot_localization](http://wiki.ros.org/robot_localization)
-- [imu_filter_madgwick](http://wiki.ros.org/imu_filter_madgwick)
-
 ### Simulators
 
 - [Ignition Gazebo](https://github.com/gazebosim/gz-sim) - successor of Gazebo
@@ -133,6 +126,19 @@ A list of important content related to Mobile Robotics.
 - [Player/Stage](http://playerstage.sourceforge.net/)
 - [O3DE (Open 3D Engine)](https://www.o3de.org/)
 - [NVIDIA Isaac](https://developer.nvidia.com/isaac-sdk)
+
+### ROS 2 Packages
+
+- [geometry2](https://github.com/ros2/geometry2)
+- [ros2_control](https://github.com/ros-controls/ros2_control)
+- [ros2_controllers](https://github.com/ros-controls/ros2_controllers)
+- [cartographer](https://github.com/ros2/cartographer)
+- [navigation2](https://github.com/ros-planning/navigation2)
+- [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+- [slam_gmappiong](https://github.com/Project-MANAS/slam_gmapping)
+- [robot_localization](https://github.com/cra-ros-pkg/robot_localization)
+- [imu_tools](https://github.com/CCNYRoboticsLab/imu_tools)
+- [moveit2](https://github.com/ros-planning/moveit2)
 
 ### Libraries
 
