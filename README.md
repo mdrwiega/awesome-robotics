@@ -50,10 +50,27 @@ A list of important content related to Mobile Robotics.
 - [edX Autonomous Mobile Robots](https://www.edx.org/course/autonomous-mobile-robots)
 - [edX Self-Driving Cars with Duckietown](https://www.edx.org/course/self-driving-cars-with-duckietown)
 
+## Perception
+
+### Computer Vision
+
+- [OpenCV](http://opencv.org/) | Computer Vision library
+
+### 3D Data Processing
+
+- [PCL](https://pointclouds.org/) | Point Cloud Library
+- [Open3D](http://www.open3d.org/docs/release/) | Library for 3D data processing
+- [ICP](https://github.com/ClayFlannigan/icp) | Iterative Closest Point
+- [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) | Iterative Closest Point implementation
+- [OctoMap](https://github.com/OctoMap/octomap) | Efficient Probabilistic 3D Mapping Framework Based on Octrees
+- [RansacLib](https://github.com/tsattler/RansacLib) | RANSAC Implementation
+
 ## SLAM
 
 ### Monocular
+
 - [ORB_SLAM](https://github.com/raulmur/ORB_SLAM) | A Versatile and Accurate Monocular SLAM
+- [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) | Real-time SLAM able to perform Visual, Visual-Inertial and Multi-Map SLAM with monocular, stereo and RGB-D cameras
 - [LSD-SLAM](https://github.com/tum-vision/lsd_slam) | Large-Scale Direct Monocular SLAM
 - [SVO](https://github.com/uzh-rpg/rpg_svo) | Semi-Direct Monocular Visual Odometry
 - [DSO](https://github.com/JakobEngel/dso) | Direct Sparse Odometry
@@ -88,6 +105,8 @@ A list of important content related to Mobile Robotics.
 
 - [Intro to A*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - [Path finding](https://qiao.github.io/PathFinding.js/visual/) | Path finding algorithms visualization
+- [OMPL](https://github.com/ompl/ompl) | The Open Motion Planning Library
+- [MoveIt](https://moveit.ros.org/) | Motion planning framework
 
 ## Control
 
@@ -97,6 +116,10 @@ A list of important content related to Mobile Robotics.
 
 - [Robotic Mapping: A Survey](http://robots.stanford.edu/papers/thrun.mapping-tr.pdf) (2002)
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
+
+## AI
+
+- [YOLOv5](https://github.com/ultralytics/yolov5)
 
 ## Software
 
@@ -113,7 +136,7 @@ A list of important content related to Mobile Robotics.
 - [OpenPilot](https://github.com/commaai/openpilot) | An open source driver assistance system
 - [Apollo](https://github.com/ApolloAuto/apollo) | Autonomous Driving Solution
 
-### Simulators
+### Simulation
 
 - [Ignition Gazebo](https://github.com/gazebosim/gz-sim) - successor of Gazebo
 - [Gazebo](http://gazebosim.org/)
@@ -126,6 +149,17 @@ A list of important content related to Mobile Robotics.
 - [Player/Stage](http://playerstage.sourceforge.net/)
 - [O3DE (Open 3D Engine)](https://www.o3de.org/)
 - [NVIDIA Isaac](https://developer.nvidia.com/isaac-sdk)
+- [MATLAB/Simulink](https://se.mathworks.com/)
+- [Scilab/Xcos](https://www.scilab.org/) | Open-source alternative to Matlab and Simulink
+- [Octave](https://octave.org/) | Another open-source alternative to Matlab
+
+### Electronics
+
+- [KiCad EDA](https://www.kicad.org/) | Open-source tool for PCB design
+
+### Mechanics
+
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) | Open-source 3D modeling tool
 
 ### ROS 2 Packages
 
@@ -142,22 +176,10 @@ A list of important content related to Mobile Robotics.
 
 ### Libraries
 
-- [OpenCV](http://opencv.org/) | Computer Vision library
-- [PCL](https://pointclouds.org/) | Point Cloud Library
 - [Eigen](http://eigen.tuxfamily.org) | C++ template library for linear algebra: matrices, vectors and numerical solvers
 - [MRPT](https://www.mrpt.org/) | Mobile Robot Programming Toolkit
-- [OctoMap](https://github.com/OctoMap/octomap) | Efficient Probabilistic 3D Mapping Framework Based on Octrees
-- [Open3D](http://www.open3d.org/docs/release/) | Library for 3D data processing
-- [RansacLib](https://github.com/tsattler/RansacLib) | RANSAC Implementation
-- [ICP](https://github.com/ClayFlannigan/icp) | Iterative Closest Point
-- [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) | Iterative Closest Point implementation
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Various robotics algorithms
 - [Arduino PID Library](https://github.com/br3ttb/Arduino-PID-Library)
-
-#### Motion planning
-
-- [OMPL](https://github.com/ompl/ompl) | The Open Motion Planning Library
-- [MoveIt](https://moveit.ros.org/) | Motion planning framework
 
 #### Optimization
 
