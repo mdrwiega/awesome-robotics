@@ -6,13 +6,17 @@ A list of important content related to Mobile Robotics.
 
 - **[News](#news)**
 - **[Books](#books)**
+- **[Survey Papers](#survey-papers)**
 - **[Courses](#courses)**
+- **[Perception](#perception)**
 - **[SLAM](#slam)**
 - **[Planning](#planning)**
 - **[Control](#control)**
-- **[Survey Papers](#survey-papers)**
+- **[AI](#ai)**
 - **[Software](#software)**
-- **[Sensors](#sensors)**
+- **[Hardware](#hardware)**
+- **[Electronics](#electronics)**
+- **[Mechanics](#mechanics)**
 - **[Datasets](#datasets)**
 - **[Journals and conferences](#journals-and-conferences)**
 - **[Companies](#companies)**
@@ -29,12 +33,18 @@ A list of important content related to Mobile Robotics.
 
 ## Books
 
-- [Probabilistic Robotics](https://dl.acm.org/doi/10.5555/1121596) | 2005
-- [Introduction to Autonomous Mobile Robots](https://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)
-- [Introduction to Autonomous Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
-- [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)
-- [Where am I? Sensors and Methods for Mobile Robot Positioning](http://citeseerx.ist.psu.edu/viewdoc/citations;jsessionid=845D198BC9C1C6D04D04ED6D9B8280AB?doi=10.1.1.228.903)
-- [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark)
+- [Probabilistic Robotics](https://dl.acm.org/doi/10.5555/1121596) | S. Thrun et al. | 2005
+- [Introduction to Autonomous Mobile Robots](https://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/) | R. Sigwart et al. | 2004
+- [Introduction to Autonomous Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | N. Correll et al. | 2022
+- [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5) | 2008
+- [Where am I? Sensors and Methods for Mobile Robot Positioning](http://www-personal.umich.edu/~johannb/Papers/pos96rep.pdf) | J. Borenstein et al. | 1996
+- [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) | K. Lynch, F. Park | 2017
+- [Robotics, Vision, and Control: Fundamental Algorithms in MATLAB](https://link.springer.com/book/10.1007/978-3-319-54413-7) | P. Corke | 2017
+
+## Survey Papers
+
+- [Robotic Mapping: A Survey](http://robots.stanford.edu/papers/thrun.mapping-tr.pdf) (2002)
+- [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
 
 ## Courses
 
@@ -54,14 +64,15 @@ A list of important content related to Mobile Robotics.
 
 ### Computer Vision
 
-- [OpenCV](http://opencv.org/) | Computer Vision library
+- [OpenCV](http://opencv.org/) | Open-source Computer Vision library focused on real-time vision
+- [DeepFace](https://github.com/serengil/deepface/tree/master/deepface) | Open-source face recognition Python library
 
 ### 3D Data Processing
 
 - [PCL](https://pointclouds.org/) | Point Cloud Library
 - [Open3D](http://www.open3d.org/docs/release/) | Library for 3D data processing
 - [ICP](https://github.com/ClayFlannigan/icp) | Iterative Closest Point
-- [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) | Iterative Closest Point implementation
+- [libpointmatcher](https://libpointmatcher.readthedocs.io/en/latest/) | Open-source implementation of the Iterative Closest Point
 - [OctoMap](https://github.com/OctoMap/octomap) | Efficient Probabilistic 3D Mapping Framework Based on Octrees
 - [RansacLib](https://github.com/tsattler/RansacLib) | RANSAC Implementation
 
@@ -112,11 +123,6 @@ A list of important content related to Mobile Robotics.
 
 - [FastPID](https://github.com/mike-matera/FastPID)
 
-## Survey Papers
-
-- [Robotic Mapping: A Survey](http://robots.stanford.edu/papers/thrun.mapping-tr.pdf) (2002)
-- [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
-
 ## AI
 
 - [YOLOv5](https://github.com/ultralytics/yolov5)
@@ -136,6 +142,19 @@ A list of important content related to Mobile Robotics.
 - [OpenPilot](https://github.com/commaai/openpilot) | An open source driver assistance system
 - [Apollo](https://github.com/ApolloAuto/apollo) | Autonomous Driving Solution
 
+### ROS 2 Packages
+
+- [geometry2](https://github.com/ros2/geometry2)
+- [ros2_control](https://github.com/ros-controls/ros2_control)
+- [ros2_controllers](https://github.com/ros-controls/ros2_controllers)
+- [cartographer](https://github.com/ros2/cartographer)
+- [navigation2](https://github.com/ros-planning/navigation2)
+- [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+- [slam_gmappiong](https://github.com/Project-MANAS/slam_gmapping)
+- [robot_localization](https://github.com/cra-ros-pkg/robot_localization)
+- [imu_tools](https://github.com/CCNYRoboticsLab/imu_tools)
+- [moveit2](https://github.com/ros-planning/moveit2)
+
 ### Simulation
 
 - [Ignition Gazebo](https://github.com/gazebosim/gz-sim) - successor of Gazebo
@@ -152,27 +171,6 @@ A list of important content related to Mobile Robotics.
 - [MATLAB/Simulink](https://se.mathworks.com/)
 - [Scilab/Xcos](https://www.scilab.org/) | Open-source alternative to Matlab and Simulink
 - [Octave](https://octave.org/) | Another open-source alternative to Matlab
-
-### Electronics
-
-- [KiCad EDA](https://www.kicad.org/) | Open-source tool for PCB design
-
-### Mechanics
-
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD) | Open-source 3D modeling tool
-
-### ROS 2 Packages
-
-- [geometry2](https://github.com/ros2/geometry2)
-- [ros2_control](https://github.com/ros-controls/ros2_control)
-- [ros2_controllers](https://github.com/ros-controls/ros2_controllers)
-- [cartographer](https://github.com/ros2/cartographer)
-- [navigation2](https://github.com/ros-planning/navigation2)
-- [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
-- [slam_gmappiong](https://github.com/Project-MANAS/slam_gmapping)
-- [robot_localization](https://github.com/cra-ros-pkg/robot_localization)
-- [imu_tools](https://github.com/CCNYRoboticsLab/imu_tools)
-- [moveit2](https://github.com/ros-planning/moveit2)
 
 ### Libraries
 
@@ -192,9 +190,11 @@ A list of important content related to Mobile Robotics.
 - [FLANN](https://github.com/flann-lib/flann) | Fast Library for Approximate Nearest Neighbors
 - [nanoflann](https://github.com/jlblancoc/nanoflann) | C++ library for building KD-Trees
 
-## Sensors
+## Hardware
 
-### Lidars
+### Sensors
+
+#### Lidars
 
 - [Velodyne](https://velodynelidar.com/)
 - [Livox](https://www.livoxtech.com/)
@@ -203,11 +203,31 @@ A list of important content related to Mobile Robotics.
 - [Ouster](https://ouster.com/)
 - [Hesai](https://www.hesaitech.com/)
 
-### RGB-D sensors
+#### RGB-D sensors
 
-- [Microsoft Kinect](https://electronics.howstuffworks.com/microsoft-kinect2.htm)
-- [Occipital Structure](https://structure.io/)
-- [Intel RealSense](https://www.intelrealsense.com/)
+- [Microsoft Kinect 2.0](https://electronics.howstuffworks.com/microsoft-kinect2.htm) | Time of flight
+- [Microsoft Azure Kinect DK](https://azure.microsoft.com/en-us/products/kinect-dk/#overview) | Time of flight
+- [Structure Core/Sensor Pro](https://structure.io/)
+- [Intel RealSense D435](https://www.intelrealsense.com/depth-camera-d435/) | Active IR Stereo
+- [Intel RealSense D405](https://www.intelrealsense.com/depth-camera-d405/) | Stereo Camera
+- [StereoLabs ZED 2](https://www.stereolabs.com/zed-2/) | Stereo camera with neural networks
+- [Asus Xtion Pro Live](https://www.asus.com/me-en/supportonly/xtion%20pro%20live/helpdesk_knowledge/) | Structured light
+- [Optonic Enseno N35-606-16-BL](https://www.optonic.com/en/brands/ensenso/?id=N35-606-16-BL) | Structured light
+- [Orbec Astra Mini](https://orbbec3d.com/index/Product/info.html?cate=38&id=13) | Structured light
+
+#### IMU
+
+- [Bosch IMUs](https://www.bosch-sensortec.com/products/motion-sensors/imus/)
+- [Phidgets](https://www.phidgets.com/?tier=3&catid=10&pcid=8&prodid=32)
+- [Advanced Navigation Orientus](https://www.advancednavigation.com/imu-ahrs/mems-imu/orientus/)
+
+## Electronics
+
+- [KiCad EDA](https://www.kicad.org/) | Open-source tool for PCB design
+
+## Mechanics
+
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) | Open-source 3D modeling tool
 
 ## Datasets
 
@@ -278,6 +298,11 @@ A list of important content related to Mobile Robotics.
 - [X](https://x.company/)
 - [Small Robot Company](https://www.smallrobotcompany.com/)
 - [Optimus Ride](https://www.optimusride.com/) | self-driving vehicles
+- [Amazon Robotics](https://builtin.com/company/amazon)
+- [UiPath](https://www.uipath.com/)
+- [Accuray](https://www.accuray.com/) | Healthcare
+- [Intuitive Surgical](https://www.intuitive.com/en-us) | Healthcare
+- [Da Vinci Surgery](https://www.davincisurgery.com/) | Surgery robots
 
 ## Miscellaneous
 
