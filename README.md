@@ -1,7 +1,7 @@
 # Awesome Robotics
 
 A list of important content related to Mobile Robotics.
-Check also the [robotics glossary of acronyms](https://github.com/mdrwiega/robotics_glossary).
+Check also the [robotics glossary of acronyms](./glossary.md).
 
 ## Contents
 
