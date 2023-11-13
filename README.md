@@ -113,6 +113,13 @@ Check also the [robotics glossary of acronyms](./glossary.md).
 - [GMapping](https://openslam-org.github.io/gmapping.html) | SLAM based on Rao-Blackwellized particle filter
 - [OpenSLAM](http://openslam.org/)
 
+## Optimization
+
+- [CasADi](https://web.casadi.org/)
+- [ACADO Toolkit](https://acado.github.io/)
+- [Ceres Solver](http://ceres-solver.org/)
+- [g2o](https://github.com/RainerKuemmerle/g2o)
+
 ## Planning
 
 - [Intro to A*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
