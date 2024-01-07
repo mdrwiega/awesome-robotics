@@ -252,13 +252,13 @@ Check also the [robotics glossary of acronyms](./glossary.md).
 - [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514) | *Springer*
 - [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846) | *Springer*
 - [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369) | *Springer*
-- [Robotics & Automation Magazine (RAM)](https://www.ieee-ras.org/publications/ram) | *IEEE*
+- [RAM - Robotics & Automation Magazine](https://www.ieee-ras.org/publications/ram) | *IEEE*
 - [Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | *IEEE*
-- [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | *IEEE*
+- [RA-L - Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l) | *IEEE*
 - [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516) | *IEEE*
-- [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr) | *Sage*
-- [International Journal of Advanced Robotics Systems (IJARS)](https://journals.sagepub.com/home/arx) | *Sage*
-- [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967) | *Wiley*
+- [IJRR - International Journal of Robotics Research](https://journals.sagepub.com/home/ijr) | *Sage*
+- [IJARS - International Journal of Advanced Robotics Systems](https://journals.sagepub.com/home/arx) | *Sage*
+- [JFR - Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967) | *Wiley*
 - [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | *Elsevier*
 - [Robotics and Computer-Integrated Manufacturing](https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing) | *Elsevier*
 - [Mechatronics](http://www.journals.elsevier.com/mechatronics) | *Elsevier*
@@ -267,12 +267,15 @@ Check also the [robotics glossary of acronyms](./glossary.md).
 - [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
 - [Journal of Automation, Mobile Robotics and Intelligent Systems](https://www.jamris.org)
 - [Sensors](https://www.mdpi.com/journal/sensors) | *MDPI*
+- [JOSS - Journal of Open Source Software](http://joss.theoj.org/)
+- [JAMRIS - Journal of Automation, Mobile Robotics & Intelligent Systems](http://www.jamris.org)
+- [International Journal of Robotics](http://www.hindawi.com/journals/jr/)
 
 ### Conferences
 
-- [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-- [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
-- [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+- [ICRA - IEEE International Conference on Robotics and Automation](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+- [RSS - Robotics: Science and Systems Conference](http://www.roboticsconference.org/)
+- [IROS - IEEE/RSJ International Conference on Intelligent Robots and Systems](http://www.iros.org/)
 - [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
 - [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
 - [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
