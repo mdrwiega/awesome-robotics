@@ -219,6 +219,7 @@ Check also the [robotics glossary of acronyms](./glossary.md).
 - [Intel RealSense D435](https://www.intelrealsense.com/depth-camera-d435/) | Active IR Stereo
 - [Intel RealSense D405](https://www.intelrealsense.com/depth-camera-d405/) | Stereo Camera
 - [StereoLabs ZED 2](https://www.stereolabs.com/zed-2/) | Stereo camera with neural networks
+- [CameVision EGO](https://camemake.github.io/CameVision-Ego/) | Global-shutter stereo, one IMU per camera, 75 mm baseline
 - [Asus Xtion Pro Live](https://www.asus.com/me-en/supportonly/xtion%20pro%20live/helpdesk_knowledge/) | Structured light
 - [Optonic Enseno N35-606-16-BL](https://www.optonic.com/en/brands/ensenso/?id=N35-606-16-BL) | Structured light
 - [Orbec Astra Mini](https://orbbec3d.com/index/Product/info.html?cate=38&id=13) | Structured light
